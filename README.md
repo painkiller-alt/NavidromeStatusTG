@@ -1,5 +1,7 @@
 Environment example:
 
+
+```
 # telegram bot api token
 BOT_TOKEN=
 
@@ -15,3 +17,4 @@ NAVIDROME_API_VERSION=1.16.1
 NAVIDROME_FILTER_USER=admin
 
 OUTPUT_FORMAT=text
+```
